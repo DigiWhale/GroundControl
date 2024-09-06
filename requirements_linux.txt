@@ -1,6 +1,6 @@
 appdirs==1.4.3
 Cython==0.29.33
-Kivy==1.9.1
+Kivy
 Kivy-Garden==0.1.4
 packaging==16.8
 Pillow==9.3.0
