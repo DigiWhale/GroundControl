@@ -1,5 +1,5 @@
 appdirs==1.4.3
-Cython==0.25.2
+Cython==0.29.33
 Kivy==1.9.1
 Kivy-Garden==0.1.4
 packaging==16.8
